@@ -13,7 +13,8 @@ const about = () => (
     <div className="wrapper">
       <Title title="ABOUT ME." />
       <p className="font12">
-      Some tools I develop in are React, Wordpress, and Node.js. <br></br>Along with HTML/CSS and of course JS, I am also very comfortable with SCSS, GIT, and NPM. 
+      Some tools I develop in are React, Wordpress, and Node.js. <br></br>Along with HTML/CSS and of course JS, I am also very comfortable with SCSS, GIT, and NPM.<br></br>I also
+      enjoy working with REST API's
       </p>
       <Row>
         <Col md={12} lg={4}>
